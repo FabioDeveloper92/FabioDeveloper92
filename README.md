@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/hey.gif" alt="C Sharp" title="C Sharp" height="40">, Nice to see you.
+# Hi! Nice to see you  <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/hey.gif" alt="C Sharp" title="C Sharp" height="40">
 
 Welcome to my page!
 I'm Fabio, Fullstack developer from Italy <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/flag.png" alt="C Sharp" title="C Sharp" height="20">
