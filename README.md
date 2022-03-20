@@ -4,7 +4,7 @@ Welcome to my page!
 I'm Fabio, Fullstack Developer from Italy <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/flag.png" alt="C Sharp" title="C Sharp" height="20">
 
 # My Stack
-<img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/csharp.png" alt="C Sharp" title="C Sharp" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/angular.png" alt="C Sharp" title="C Sharp" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mssql.png" alt="C Sharp" title="C Sharp" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mongodb.png" alt="C Sharp" title="C Sharp" height="70">
+<img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/csharp.png" alt="C Sharp" title="C Sharp" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/angular.png" alt="Angular" title="Angular" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mssql.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mongodb.png" alt="MongoDB" title="MongoDB" height="70">
 
 # About Me
 
