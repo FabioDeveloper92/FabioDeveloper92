@@ -8,18 +8,13 @@ I'm Fabio, Fullstack Developer from Italy <img src="https://github.com/FabioDeve
 
 # About Me
 
-I started programming at the age of 11 with vb.net and from there I never stopped
+I *started* programming at the age of 11 with vb.net and from there I never stopped
 
-I love to learn and every single aspect of every language/framework I use.
+I *love* to learn and every single aspect of every language/framework I use.
 
-Currently I started writing some content on twitter and I studying azure devops
+*Currently* I started writing some content on twitter and I studying azure devops
 
-My next steps: start with my blog & site, more focus on MongoDB & Azure
-
-My other passions are:
-- Book
-- Gym, Swimming & Walking
-- Explore the nature
+My *next steps*: start with my blog & site, more focus on MongoDB & Azure
 
 # My Story
 
@@ -28,3 +23,8 @@ My other passions are:
 - Master's degree, around 2017
 - Fullstack developer, Web application for surveys, and erp, Technology: Angular, .NET, SQLServer
 - Fullstack developer & Scrum master, Tourism Platform, Technology: MongoDB .NET, ReactJS, SQLServer
+
+# Extra Coding
+- *Book*, help me to improve my comunication & they give me a lot of inspiration
+- *Gym, Swimming & Walking*, for me their a very important thing to have a better quality of life, and be more focused on work
+- *Explore the nature*, zero thoughts and zero worries, a good environment to meditate
