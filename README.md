@@ -4,15 +4,27 @@ Welcome to my page!
 I'm Fabio, Fullstack Developer from Italy <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/flag.png" alt="Italy" title="Italy" height="20">
 
 # My Stack
-<img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/csharp.png" alt="C Sharp" title="C Sharp" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/angular.png" alt="Angular" title="Angular" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mssql.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mongodb.png" alt="MongoDB" title="MongoDB" height="70">
+<img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/csharp.png" alt="C Sharp" title="C Sharp" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/angular.png" alt="Angular" title="Angular" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/reactjs.png" alt="ReactJS" title="ReactJS" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mssql.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mongodb.png" alt="MongoDB" title="MongoDB" height="70">
 
 # About Me
 
-I started programming at the age of 11 with vb.net and from there I never stopped, I love to learn and deepen every single aspect of every language/framework I use.
+I started programming at the age of 11 with vb.net and from there I never stopped
 
-Currently I started writing some simple content on twitter and I studying web 3.0
+I love to learn and every single aspect of every language/framework I use.
+
+Currently I started writing some content on twitter and I studying azure devops
+
+My next steps: start with my blog & site, more focus on MongoDB & Azure
 
 My other passions are:
 - Book
-- Swimming
+- Gym, Swimming & Walking
 - Explore the nature
+
+# My Story
+
+- In the high school, I studied coding/economy
+- Bachelor's degree, around 2015
+- Master's degree, around 2017
+- Fullstack developer, Web application for surveys, and erp, Technology: Angular, .NET, SQLServer
+- Fullstack developer & Scrum master, Tourism Platform, Technology: MongoDB .NET, ReactJS, SQLServer
