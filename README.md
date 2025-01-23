@@ -1,30 +1,29 @@
-# Hi! Nice to see you  <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/hey.gif" alt="C Sharp" title="C Sharp" height="40">
+# Hey there! 👋  
+Welcome to my GitHub page! I'm Fabio, a passionate Fullstack Developer from Italy 🇮🇹
 
-Welcome to my page!
-I'm Fabio, Fullstack Developer from Italy <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/flag.png" alt="Italy" title="Italy" height="20">
-
-# My Stack
+### 🚀 My Stack
 <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/csharp.png" alt="C Sharp" title="C Sharp" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/angular.png" alt="Angular" title="Angular" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/reactjs.png" alt="ReactJS" title="ReactJS" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mssql.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="70"> <img src="https://github.com/FabioDeveloper92/FabioDeveloper92/blob/main/mongodb.png" alt="MongoDB" title="MongoDB" height="70">
 
-# About Me
+### 🧑‍💻 About Me
+I’m a **.NET enthusiast** who started coding at age 11 with VB.NET, and since then, I've been hooked. 🚀
 
-I *started* programming at the age of 11 with vb.net and from there I never stopped
+I’m driven by a **passion for continuous learning** and diving deep into the architecture, design patterns, and methodologies that make software thrive. Whether it's a new framework or a fresh tool, I’m all in! 💡
 
-I *love* to learn and every single aspect of every language/framework I use.
+Currently, I'm diving into **team management strategies** and sharing some of my journey on **Twitter**. I'm also setting my sights on building a blog and diving deeper into **VueJS** and **AI**. 🌐
 
-*Currently* I started writing some content on twitter and I studying azure devops
+### 🛠️ My Journey
+- **High school**: Focused on coding and economy  
+- **Bachelor's degree**: Graduated in 2015  
+- **Master's degree**: Completed in 2017  
+- **Fullstack Developer**: Developed web applications for surveys & ERP using Angular, .NET, and SQLServer  
+- **Fullstack Developer**: Lead a tourism platform project, working with MongoDB, .NET, ReactJS, and SQLServer
 
-My *next steps*: start with my blog & site, more focus on MongoDB & Azure
+### 🎯 What's Next?
+- Launch my personal blog and website  
+- Continue expanding my expertise in **AI** and **Team management**  
+- Prepare for my first small conferences
 
-# My Story
-
-- In the high school, I studied coding/economy
-- Bachelor's degree, around 2015
-- Master's degree, around 2017
-- Fullstack developer, Web application for surveys, and erp, Technology: Angular, .NET, SQLServer
-- Fullstack developer & Scrum master, Tourism Platform, Technology: MongoDB .NET, ReactJS, SQLServer
-
-# Extra Coding
-- *Book*, help me to improve my comunication & they give me a lot of inspiration
-- *Gym, Swimming & Walking*, for me their a very important thing to have a better quality of life, and be more focused on work
-- *Explore the nature*, zero thoughts and zero worries, a good environment to meditate
+### 📚 Extra Coding
+- **Books**: Fueling my creativity and enhancing my communication skills  
+- **Fitness**: Gym, swimming, walking, and padel—essential for a balanced life, focus, and teamwork
+- **Nature exploration**: The best way to clear my mind and recharge!
